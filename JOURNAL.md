@@ -1,1 +1,14 @@
 # hackpad
+---
+title: Hackpad
+author: petee125678
+description: My very first hackpad!
+created_at: 2026-06-20
+---
+
+# Jun 20: made the PCB and the schematic added stuff
+Today I did some schematic stuff; this is really confusing tbh, as the tutorial sucks. Anyway, I also struggled finding the right part when putting footprints. I asked in the Slack; no one helped. I had to figure it out by myself; I used my basic knowledge to connect an LED to turn on when it gets power by connecting it to 3V3 and GND. I added an extra switch and made it in the shape of a heart. That's my customization. Bye bye!!! ps i didnt finish routing, i give up for today
+
+
+<img src="/Users/lorenajonard/Desktop/meep.png"
+**Total time spent: 2 hours**---
